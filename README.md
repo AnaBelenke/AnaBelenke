@@ -18,7 +18,7 @@
  
   ##
   <div>
-    <a href="https://discord.gg" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white" width=70 heigth=70  target =" _ blank "> </a>                                                                                
+    <a href="https://discord.com/channels/@Anacatz008#9876" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white" width=70 heigth=70  target =" _ blank "> </a>                                                                                
     <a href = "ana.cbs008@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width=70 heigth=70  target = "_ blank"> </a>   
-     <a href="https://www.linkedin.com/in/ana-carolina-belenke-dos-santos-7691941a4" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=85 heigth=85 target =" _ blank "> </a> 
+     <a href="https://www.linkedin.com/in/anabelenke/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=85 heigth=85 target =" _ blank "> </a> 
   </div>
