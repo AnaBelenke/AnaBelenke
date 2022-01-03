@@ -13,7 +13,7 @@
     <img align = "center" alt = "Ana-Css" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"> 
     <img align = "center" alt = "Ana-React" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align = "center" alt = "Ana-Canva" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"> 
-    <img align = "right" alt = "Ana-pic" height = "150" style = "border-radius: 50px;" src = "https://user-images.githubusercontent.com/92173371/137194796-ef3436de-85c8-4d3c-bb60-fcbfbfeb26eb.png">
+    <img align = "right" alt = "Ana-pic" height = "150" style = "border-radius: 50px;" src = "./READMI.md/arco-iris.gif">
   </div>    
  
   ##
