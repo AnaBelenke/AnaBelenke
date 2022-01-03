@@ -16,7 +16,10 @@
     <img align = "center" alt = "Ana-Css" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"> 
     <img align = "center" alt = "Ana-React" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align = "center" alt = "Ana-Canva" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"> 
-    <img align = "right" alt = "Ana-pic" height = "150" style = "border-radius: 50px;" src = "https://github.com/AnaBelenke/AnaBelenke/main/arco-iris.gif">
+    <img src="https://github.com/lucasrmagalhaes/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+
+</a>
+
   </div>    
  
   ##
@@ -25,3 +28,10 @@
     <a href = "ana.cbs008@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width=70 heigth=70  target = "_ blank"> </a>   
      <a href="https://www.linkedin.com/in/anabelenke/" target="_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=85 heigth=85 target =" _ blank "> </a> 
   </div>
+
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/AnaBelenke/count.svg" />
+ </p>
