@@ -1,10 +1,13 @@
 ## Olá! Eu sou Ana, futura programadora ☕ Front-end ☕              
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230B7B0D&center=verdadeiro&vCenter=falso&lines=hello+world!)](https://git.io/typing-svg)
    
   <div align = "center">
     <a href="https://github.com/AnaBelenke">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBelenke&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBelenke&layout=compact&langs_count=7&theme=blue-green"/>
   </div>  
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230B7B0D&lines=Web+developer)](https://git.io/typing-svg)
    
   <div style = "display: inline_block"> <br>
     <img align = "center" alt = "Ana-JS" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> 
@@ -13,7 +16,7 @@
     <img align = "center" alt = "Ana-Css" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"> 
     <img align = "center" alt = "Ana-React" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align = "center" alt = "Ana-Canva" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"> 
-    <img align = "right" alt = "Ana-pic" height = "150" style = "border-radius: 50px;" src = "./READMI.md/arco-iris.gif">
+    <img align = "right" alt = "Ana-pic" height = "150" style = "border-radius: 50px;" src = "https://github.com/AnaBelenke/AnaBelenke/main/arco-iris.gif">
   </div>    
  
   ##
