@@ -39,9 +39,7 @@
 </a>
   <br>
   <br>
-  
-   ![arco-iris](https://user-images.githubusercontent.com/92173371/147987260-5f77363c-f397-4e41-b439-95afb48e6d18.gif)
-
+ 
 
   </div>    
  
