@@ -17,13 +17,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230B7B0D&lines=Web+developer)](https://git.io/typing-svg)
   
-  
-<p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/AnaBelenke/count.svg" />
- </p>
 
   <br>
   
