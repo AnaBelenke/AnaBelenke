@@ -1,16 +1,20 @@
 ## Olá! Eu sou Ana, programadora Front-end ☕          
 
   <br>
-  
+
+  <div align = "center">
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=Hello+World)](https://git.io/typing-svg)
 
 <img align = "center" alt = "Ana" src = "https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611150ecab0cf8486f257e599fc09551cb741171905&rid=giphy.gif&ct=g"> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <div align = "center">
+  
     <a href="https://github.com/AnaBelenke">
      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaBelenke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBelenke&layout=compact&langs_count=7&theme=dracula"/>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=Web+developer)](https://git.io/typing-svg)
+  
   </div>
   
   
@@ -18,7 +22,7 @@
   <br> 
   
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=Web+developer)](https://git.io/typing-svg)
+ 
   
 
 
