@@ -2,19 +2,28 @@
 
   <br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.com/channels/@tech.ana#9869" target="_blank"> <img height = "50" width = "100" src = "https://i.giphy.com/media/ubEJCprlrFeUSHyR0u/giphy.webp" width=85 heigth=85  target =" _ blank "> </a>
   <div align = "center">
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=Hello+World)](https://git.io/typing-svg)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=@ana.tech_)](https://git.io/typing-svg)
+<br>
 <img align = "center" alt = "Ana" src = "https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611150ecab0cf8486f257e599fc09551cb741171905&rid=giphy.gif&ct=g"> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  
+<br>
+ <br>
     <a href="https://github.com/AnaBelenke">
      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaBelenke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBelenke&layout=compact&langs_count=7&theme=dracula"/>
+  <br>
+  <br>
+  <br>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=Web+developer)](https://git.io/typing-svg)
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=getCoffee())](https://git.io/typing-svg) 
+<br>
+  <img align = "center" alt = "coffee" height = "250" width = "250" src = "https://media1.giphy.com/media/UtiTAM4vuiZgc64buh/giphy.gif?cid=ecf05e47jpgh437mn27l8gj81vglu0ru71osdt8nm3z74n57&rid=giphy.gif&ct=g">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+
   </div>
   
   
@@ -28,7 +37,7 @@
 
   <br>
   
-  ## Minhas skills :nerd_face: 
+  ## Skills  
   
   <div style = "display: inline_block"> <br>
                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,11 +61,11 @@
  
  <br>
  
-  ## Meus contatos :iphone:
+  ## Contacts 
   
   
 <p align="center">
-    <a href="https://discord.com/channels/@Anacatz008#9876" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white" width=85 heigth=85  target =" _ blank "> </a>  
+    <a href="https://discord.com/channels/@tech.ana#9869" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white" width=85 heigth=85  target =" _ blank "> </a>  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/AnaCarolina">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/AnaCarolina">
