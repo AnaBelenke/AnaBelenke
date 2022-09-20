@@ -4,7 +4,8 @@
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=Hello+World)](https://git.io/typing-svg)
 
-
+<img align = "center" alt = "Ana" src = "https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b7611150ecab0cf8486f257e599fc09551cb741171905&rid=giphy.gif&ct=g"> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <div align = "center">
     <a href="https://github.com/AnaBelenke">
