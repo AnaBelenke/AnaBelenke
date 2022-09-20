@@ -2,8 +2,10 @@
 
   <br>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230B7B0D&center=verdadeiro&vCenter=falso&lines=hello+world!)](https://git.io/typing-svg)
-   
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=Hello+World)](https://git.io/typing-svg)
+
+
+
   <div align = "center">
     <a href="https://github.com/AnaBelenke">
      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaBelenke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,7 +17,7 @@
   <br> 
   
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230B7B0D&lines=Web+developer)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=Web+developer)](https://git.io/typing-svg)
   
 
 
