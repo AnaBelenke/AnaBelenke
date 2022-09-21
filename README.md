@@ -2,7 +2,7 @@
 
   <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://beacons.ai/tech.ana" target="_blank"> <img height = "50" width = "100" src = "https://i.giphy.com/media/ubEJCprlrFeUSHyR0u/giphy.webp" width=85 heigth=85  target =" _ blank "> </a>
+
   <div align = "center">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=@ana.tech_)](https://git.io/typing-svg)
@@ -16,28 +16,11 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBelenke&layout=compact&langs_count=7&theme=dracula"/>
   <br>
   <br>
-  <br>
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=getCoffee())](https://git.io/typing-svg) 
-<br>
-  <img align = "center" alt = "coffee" height = "250" width = "250" src = "https://media1.giphy.com/media/UtiTAM4vuiZgc64buh/giphy.gif?cid=ecf05e47jpgh437mn27l8gj81vglu0ru71osdt8nm3z74n57&rid=giphy.gif&ct=g">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
-
   </div>
   
-  
-  <br> 
-  <br> 
-  
-  
- 
-  
-
-
-  <br>
-  
   ## Skills  
+  
   
   <div style = "display: inline_block"> <br>
                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -79,3 +62,22 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/anabelenke/">
     </a>
 </p>
+  
+  <br>
+  
+<div align="center">  
+
+
+<br>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F796A2&width=435&lines=getCoffee())](https://git.io/typing-svg) 
+
+
+  <img align = "center" alt = "coffee" height = "250" width = "250" src = "https://media1.giphy.com/media/UtiTAM4vuiZgc64buh/giphy.gif?cid=ecf05e47jpgh437mn27l8gj81vglu0ru71osdt8nm3z74n57&rid=giphy.gif&ct=g">
+
+
+</div>
+ 
+
+  
