@@ -1,4 +1,4 @@
-## Olá! Eu sou Ana, programadora Front-end ☕          
+## Olá! Eu sou Ana ☕          
 
   <br>
 
